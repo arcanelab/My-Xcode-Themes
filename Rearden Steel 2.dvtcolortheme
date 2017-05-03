@@ -5,25 +5,25 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>1 1 0 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>AndaleMono - 14.0</string>
+	<string>AndaleMono - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 0.501961 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>AndaleMono - 14.0</string>
+	<string>AndaleMono - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.255 0.801 0.27 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>AndaleMono - 14.0</string>
+	<string>AndaleMono - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>1 0 0 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>AndaleMono - 14.0</string>
+	<string>AndaleMono - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.4 0.8 1 1</string>
+	<string>0.0854388 0.087551 0.0748996 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>AndaleMono - 14.0</string>
+	<string>AndaleMono - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0 0 1</string>
+	<string>0.907113 1 0.994782 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>AnonymousPro - 16.0</string>
+		<string>AnonymousPro - 15.0</string>
 	</dict>
 </dict>
 </plist>
